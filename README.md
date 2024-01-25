@@ -1,6 +1,6 @@
 # Overview
 
-The following application contained within the repository is an introductory application for Lab 0 requirements of ENGO 551. The applicaiton has been developed using HTML, CSS, SCSS and JS. The assets utilized in the application (photographs & images) are covered under the standard MIT License.
+The following application contained within the repository is an introductory application for Lab 0 requirements of ENGO 551. The applicaiton has been developed using HTML, CSS, SCSS and JS. The assets utilized in the application including photographs,  images and template code are covered under the standard MIT License.
 
 ## Templates Used
 
